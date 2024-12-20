@@ -1,0 +1,32 @@
+p.outline1 {
+    outline-style: double;
+    outline-width: 10px;
+}
+
+p.outline2 {
+    outline-style: dotted;
+    outline-width: thick;
+}
+
+
+p.outline3 {
+    outline-style: solid;
+    outline-color: #ff000f;
+}
+
+p.outline4 {
+    outline: 5px solid #ffff00;
+}
+
+p.outline5 {
+    color: aqua;
+    outline: 5px solid;
+}
+
+p.outline6 {
+    outline: 5px #ff000f;
+}
+
+p.outline7 a {
+    outline: 0;
+}
